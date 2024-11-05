@@ -1,0 +1,12 @@
+h1{
+border: solid 10px;
+ width: 270px;
+}
+.single{
+  width: 125px;
+  background-color: rosyBrown;
+}
+.double{
+  width: 250px;
+  background-color: brown;
+}
